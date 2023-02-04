@@ -3,7 +3,7 @@
 <h2 align="start">¡Hey <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="20px">! Soy Leandro 👨🏻‍💻</h2>
    
    
-
+<img align="center"  height="auto" width="500" src="https://user-images.githubusercontent.com/104572164/216793247-342e460d-1041-4105-9e07-49c2356476af.png" alt="banner-react" >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
