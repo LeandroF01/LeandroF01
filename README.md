@@ -1,9 +1,7 @@
-
-
 <h2 align="start">¡Hi <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="20px">! I'm Leandro 👨🏻‍💻</h2>
    
    
-<img align="center"  height="auto" width="500" src="https://user-images.githubusercontent.com/104572164/216793247-342e460d-1041-4105-9e07-49c2356476af.png" alt="banner-react" >
+<img align="center"  height="auto" width="500" src="./banner.png" alt="banner-react" >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -140,7 +138,7 @@
 				height="40" />
 		</a></p>
 
-###  Dev Stuffs:
+### Dev Stuffs:
 
   <summary><b>⚡ Github Stats</b></summary>
   
@@ -150,5 +148,3 @@
 
 <summary><b>☄️ Github Streaks</b></summary>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LeandroF01&hide_border=true" />
-
-
